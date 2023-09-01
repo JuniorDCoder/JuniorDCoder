@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any opensource or any other interesting projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to Backend Development
-- 📫 How to reach me: Email me at foryoungjuniorngu@gmail.com
+- 📫 How to reach me: Email me at foryoungjuniorngu@gmail.com / juniorngu84@gmail.com
+- I literally reply ASAP
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hardly do i loose my guard
 
