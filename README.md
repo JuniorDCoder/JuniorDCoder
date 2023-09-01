@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am called **JuniorDCoder/JuniorDCoder** ✨✨ 
+I am called **JuniorDCoder** ✨✨ 
 
 Here are some ideas to get you started:
 
