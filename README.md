@@ -2,7 +2,7 @@ I am called JuniorDCoder ✨✨
 
 Here are some interesting facts about me:
 
-🔭 I’m currently working as the Chief Technology Officer at Traitz Tech ( www.traitx.tech )
+🔭 I’m currently working as the Chief Technology Officer at Traitz Tech ( www.traitz.tech )
 
 🌱 I’m currently working with PHP-Laravel and VueJS for FullStack Development i and have some experience working with it
 
