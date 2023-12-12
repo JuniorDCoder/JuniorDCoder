@@ -2,9 +2,9 @@ I am called JuniorDCoder ✨✨
 
 Here are some interesting facts about me:
 
-🔭 I’m currently working as a fullstack Developer at MTGConsulting
+🔭 I’m currently working as the Chief Technology Officer at Traitz Tech ( www.traitx.tech )
 
-🌱 I’m currently working with PHP-Laravel for FullStack Development i and have some experience working with it
+🌱 I’m currently working with PHP-Laravel and VueJS for FullStack Development i and have some experience working with it
 
 👯 I’m looking to collaborate on any opensource or any other interesting projects
 
@@ -12,7 +12,7 @@ Here are some interesting facts about me:
 
 💬 Ask me about anything related to Backend Development
 
-📫 How to reach me: Email me at foryoungjuniorngu@gmail.com / juniorngu84@gmail.com
+📫 How to reach me: Email me at foryoungjuniorngu@gmail.com / juniorngu@traitz.tech
 I literally reply ASAP
 
 😄 Pronouns: He/Him
