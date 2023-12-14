@@ -1,6 +1,6 @@
 # Hello, I'm JuniorDCoder 👋
 
-![Banner]([https://www.figma.com/file/0yJdS5sQmwobeatNQDsUYV/README-Github-Banner-(Community)?type=design&node-id=0%3A1&mode=design&t=4N7nvTpLt7APzkd3-1](https://www.figma.com/file/0yJdS5sQmwobeatNQDsUYV/README-Github-Banner-(Community)?type=design&node-id=0-67&mode=dev))
+![Banner](https://github.com/JuniorDCoder/JuniorDCoder/blob/main/Make%20your%20README.png)
 
 I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in PHP-Laravel and VueJS, and I'm always excited to collaborate on interesting projects and contribute to open source.
 
