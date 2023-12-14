@@ -33,8 +33,8 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 - PostgreSQL
 
 ## 📈 My GitHub Stats
-[![JuniorDCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats&layout=donut-vertical&lang_count=8&theme=dark)
+[![JuniorDCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=redical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats&layout=donut-vertical&lang_count=8&theme=radical)
 
 ## 📫 Contact Me
 - Email - [Work Email](mailto:juniorngu@traitz.tech)
