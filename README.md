@@ -1,20 +1,42 @@
-I am called JuniorDCoder ✨✨
+# Hello, I'm JuniorDCoder 👋
 
-Here are some interesting facts about me:
+![Banner](https://your-banner-image-url)
 
-🔭 I’m currently working as the Chief Technology Officer at Traitz Tech ( www.traitz.tech )
+I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in PHP-Laravel and VueJS, and I'm always excited to collaborate on interesting projects and contribute to open source.
 
-🌱 I’m currently working with PHP-Laravel and VueJS for FullStack Development i and have some experience working with it
+## 🚀 About Me
+- 🔭 I’m currently working on some really cool projects at Traitz Tech.
+- 🌱 I’m continuously learning and improving my skills.
+- 👯 I’m open to collaborating on any open-source project.
+- 💬 Ask me anything about Backend Development, I am happy to help.
+- 📫 How to reach me: [Email](mailto:foryoungjuniorngu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/foryoung-junior-24887b206/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I never let my guard down.
 
-👯 I’m looking to collaborate on any opensource or any other interesting projects
+## 🛠️ My Skills
+### Languages
+- PHP
+- JavaScript
+- Python
+- HTML
+- CSS
 
-🤔 I’m looking for help with ... Well I would Say nothing, as of now
+### Frameworks
+- Laravel
+- Django
+- VueJS
+- Tailwind CSS
+- Bootstrap
 
-💬 Ask me about anything related to Backend Development
+### Databases
+- MySQL
+- PostgreSQL
 
-📫 How to reach me: Email me at foryoungjuniorngu@gmail.com / juniorngu@traitz.tech
-I literally reply ASAP
+## 📈 My GitHub Stats
+[![JuniorDCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats)
 
-😄 Pronouns: He/Him
+## 📫 Contact Me
+- Email - [foryoungjuniorngu@gmail.com](mailto:foryoungjuniorngu@gmail.com)
+- LinkedIn - [Your Name](https://www.linkedin.com/in/foryoung-junior-24887b206/)
 
-⚡ Fun fact: Hardly do i loose my guard
+Thanks for stopping by! 😊
