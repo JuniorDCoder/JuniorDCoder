@@ -1,6 +1,7 @@
 # Hello, I'm JuniorDCoder 👋
 
 ![Banner](https://github.com/JuniorDCoder/JuniorDCoder/blob/main/Make%20your%20README.png)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorDCoder&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in PHP-Laravel and VueJS, and I'm always excited to collaborate on interesting projects and contribute to open source.
 
