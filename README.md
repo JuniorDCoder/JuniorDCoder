@@ -36,7 +36,7 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 [![JuniorDCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
-- Email - [foryoungjuniorngu@gmail.com](mailto:foryoungjuniorngu@gmail.com)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/foryoung-junior-24887b206/)
+- Email - [Work Email](mailto:juniorngu@traitz.tech)
+- LinkedIn - [Foryoung Junior](https://www.linkedin.com/in/foryoung-junior-24887b206/)
 
 Thanks for stopping by! 😊
