@@ -1,4 +1,4 @@
-# Hello, I'm JuniorDCoder 👋
+# Hello, I'm F. Junior Ngu A.K.A JuniorDCoder 👋
 
 ![Banner](https://github.com/JuniorDCoder/JuniorDCoder/blob/main/Make%20your%20README.png)
 
