@@ -5,6 +5,7 @@
 I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in PHP-Laravel and VueJS, and I'm always excited to collaborate on interesting projects and contribute to open source.
 
 ## 🚀 About Me
+- 📫 Portfolio: [My Portfolio](https://juniorngu.traitz.tech/)
 - 🔭 I’m currently working on some really cool projects at Traitz Tech.
 - 🌱 I’m continuously learning and improving my skills.
 - 👯 I’m open to collaborating on any open-source project.
@@ -23,7 +24,6 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 
 ### Frameworks
 - Laravel
-- Django
 - VueJS
 - Tailwind CSS
 - Bootstrap
