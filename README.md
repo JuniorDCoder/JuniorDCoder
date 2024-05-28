@@ -23,6 +23,8 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 ### Frameworks
 - Laravel
 - VueJS
+- Inertia
+- Ionic
 - Tailwind CSS
 - Bootstrap
 
