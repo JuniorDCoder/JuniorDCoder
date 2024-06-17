@@ -16,6 +16,8 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 ### Languages
 - PHP
 - JavaScript
+- TypeScript
+- C
 - Python
 - HTML
 - CSS
