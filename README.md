@@ -1,6 +1,6 @@
 # Hello, I'm F. Junior Ngu A.K.A JuniorDCoder 👋
 
-I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in PHP-Laravel and VueJS, and I'm always excited to collaborate on interesting projects and contribute to open source.
+I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz Tech](https://www.traitz.tech). I specialize in Software & Blockchain Development, and I'm always excited to collaborate on interesting projects and contribute to open source.
 
 ## 🚀 About Me
 - 📫 Portfolio: [My Portfolio](https://foryoungjunior.site/)
