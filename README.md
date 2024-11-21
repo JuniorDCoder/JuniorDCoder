@@ -26,7 +26,9 @@ I'm a passionate FullStack Developer and the Chief Technology Officer at [Traitz
 - Laravel
 - VueJS
 - React Native
-- Nuxt
+- React
+- NextJs
+- NuxtJs
 - Django
 - Inertia
 - Ionic
