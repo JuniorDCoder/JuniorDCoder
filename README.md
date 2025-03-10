@@ -60,6 +60,6 @@ etc...
 
 ## 📫 Contact Me
 - Email - [Personal Email](mailto:foryoungjuniorngu@gmail.com)
-- LinkedIn [LinkedIn](https://linkedin.com/in/juniordcoder)
+- LinkedIn [Profile](https://linkedin.com/in/juniordcoder)
 
 Thanks for stopping by! 😊
