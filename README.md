@@ -55,7 +55,7 @@ etc...
 - Firebase 
 
 ## 📈 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Ngu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorDCoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 - Email - [Personal Email](mailto:foryoungjuniorngu@gmail.com)
